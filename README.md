@@ -74,7 +74,8 @@ if above command give u an error, try this instead:
 ```
 git config --global push.autoSetupRemote true
 ```
-
+**if error not resolve watch this video**
+<a href='https://www.youtube.com/watch?v=ozFv4oclQdE&t=612s'>YouTube</a>
 ## Go to your Github account
 You will see the this <br>
 <img src ='images/pull.png' width=400><br>
@@ -83,6 +84,8 @@ After merging it in your repository, open my repository again and create a pull 
 <img src='images/newpull.png' width=400><br>
 set dropdown compare option and select your repo, and send pull request.<br><br>
 <em>Congractulation now you know how to do opensource</em> <br><br>
+**If you stuck somewhere or getting any error you can also check the YouTube video**<br>
+<a href='https://www.youtube.com/watch?v=ozFv4oclQdE&feature=youtu.be'>HELP</a><br>
 Inspired by <a href='https://github.com/firstcontributions/first-contributions'>First-contribution</a>
 
 
