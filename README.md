@@ -49,7 +49,7 @@ git switch -c anyname
 
 ### Open name.txt file:
 **without closing the terminal**
-- 1: add your username and profile link of github in the below  **name.txt**
+- 1: add your username and profile link of github in the below  **name.txt** (which inside the opensource folder)
 ### Example
 <img src='images/name.png' width=300><br>
 ## Last Part 
