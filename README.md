@@ -66,6 +66,10 @@ git commit -m 'added (samadpls) in the name.txt'
 ```
 git push origin -u your-branch-name
 ```
+if above command give u an error, try this instead:
+```
+git config --global push.autoSetupRemote true
+```
 
 ## Go to your Github account
 You will see the this <br>
