@@ -30,7 +30,8 @@ Now go to your account and open the forked repository from your account and clic
 ```
 git init
 ```
-- step 2
+- step 2<br>
+**link should be what you copied**
 ``` 
 git clone https://github.com/your-username/opensource.git
 ```
