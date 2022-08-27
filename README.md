@@ -35,6 +35,10 @@ git init
 ``` 
 git clone https://github.com/your-username/opensource.git
 ```
+- 2
+```
+cd opensource
+```
 
 ## Create a branch
 It is a best practice to create a new branch,
