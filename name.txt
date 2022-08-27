@@ -2,4 +2,3 @@ Add Your GitHub Username and GitHub Profile Link
 
 -samadpls(https://github.com/samadpls)
 -tubasid(https://github.com/tubasid)
--hamnamohi(https://github.com/hamnamohi)
