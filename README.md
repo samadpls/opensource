@@ -57,14 +57,14 @@ save the file and go to your terminal again:
 ```
 git add .
 ```
-make sure to use **' commas '** after -m
+make sure to use **"commas "** after -m
 ```
-git commit -m 'added (username) in the name.txt'
+git commit -m "added (username) in the name.txt"
 ```
 write your username inside (username)
 ### Example:
 ```
-git commit -m 'added (samadpls) in the name.txt'
+git commit -m "added (samadpls) in the name.txt"
 ```
 #### Finally 
 ```
