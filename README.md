@@ -22,14 +22,14 @@ Fork this repository by clicking the fork button. This will create a copy of thi
 <img src ='images/fork.png' width=400>
 
 ## Clone in your machine
-Now go to your account and open the forked repository from your account and click on the code button, you will see a link to copy it.
-<img src ='images/clone.png' width=400>
 - Open a terminal and run the following git command:<br>
 **Example**
 - step 1
 ```
 git init
 ```
+Now go to your account and open the forked repository from your account and click on the code button, you will see a link to copy it.<br>
+<img src ='images/clone.png' width=400>
 - step 2<br>
 **link should be what you copied**
 ``` 
