@@ -77,7 +77,7 @@ After merging it in your repository, open my repository again and create a pull 
 <img src='images/pullreqbtn.png' width=300><br><br>
 <img src='images/newpull.png' width=400><br>
 set dropdown compare option and select your repo, and send pull request.<br><br>
-<em>Congractulation now you know how to do opensource</em> <br><br>
+<em>congratulation now you know how to do opensource</em> <br><br>
 Inspired by <a href='https://github.com/firstcontributions/first-contributions'>First-contribution</a>
 
 
