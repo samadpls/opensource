@@ -3,7 +3,7 @@
 
 This repository will help you to contribute open source on Github. It will cover all the steps you need to follow to do any kind of open-source contribution.
 ## Install Git 
-   Click Git 
+   Click  
 [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads)
 
 ### Git setup
