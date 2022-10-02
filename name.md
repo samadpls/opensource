@@ -1,6 +1,7 @@
 Add Your GitHub Username and GitHub Profile Link
 
--samadpls(https://github.com/samadpls)
+-[samadpls](https://github.com/samadpls)
+
 -tubasid(https://github.com/tubasid)
 -Myrausman(https://github.com/Myrausman)
 -hamnamohi(https://github.com/hamnamohi)
@@ -11,4 +12,4 @@ Add Your GitHub Username and GitHub Profile Link
 -saadali05(https://github.com/saadali05)
 -syedowaisalishah(https://github.com/syedowaisalishah)
 -shehza-d(https://github.com/shehza-d)
--m-abdullahjaved(https://github.com/m-abdullahjaved)
+-m-abdullahjaved(https://github.com/m-abdullahjaved
