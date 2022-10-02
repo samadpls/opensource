@@ -9,11 +9,11 @@ This repository will help you to contribute open source on Github. It will cover
 ### Git setup
 To avoid any sort of error follow the steps, After installing Git on your machine, Open a terminal and run the following git command:
 - Github username
-```
+```ruby
 git config --global user.name "username"
 ```
 - Github email
-```
+```ruby
 git config --global user.email "email@example.com"
 ```
 
@@ -25,25 +25,25 @@ Fork this repository by clicking the fork button. This will create a copy of thi
 - Open a terminal and run the following git command:<br>
 **Example**
 - step 1
-```
+```ruby
 git init
 ```
 Now go to your account and open the forked repository from your account and click on the code button, you will see a link to copy it.<br>
 <img src ='images/clone.png' width=400>
 - step 2<br>
 **link should be what you copied**
-``` 
+``` ruby
 git clone https://github.com/your-username/opensource.git
 ```
 - step 3
-```
+```ruby
 cd opensource
 ```
 
 ## Create a branch
 It is a best practice to create a new branch,
 write this in your terminal:
-```
+```ruby
 git switch -c anyname
 ```
 
@@ -54,24 +54,24 @@ git switch -c anyname
 <img src='images/name.png' width=300><br>
 ## Last Part 
 save the file and go to your terminal again:
-```
+```ruby
 git add .
 ```
 make sure to use **"commas "** after -m
-```
+```ruby
 git commit -m "added (username) in the name.txt"
 ```
 write your username inside (username)
 ### Example:
-```
+```ruby
 git commit -m "added (samadpls) in the name.txt"
 ```
 #### Finally 
-```
+```ruby
 git push origin -u your-branch-name
 ```
 if above command give u an error, try this instead:
-```
+```ruby
 git config --global push.autoSetupRemote true
 ```
 **if error not resolve watch this video**
