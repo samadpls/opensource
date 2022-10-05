@@ -2,6 +2,7 @@
 # Open Source Contribution  ![GitHub Repo stars](https://img.shields.io/github/stars/samadpls/opensource?style=social) ![GitHub forks](https://img.shields.io/github/forks/samadpls/opensource?style=social) ![APM](https://img.shields.io/apm/l/vim-mode?style=social)
 
 This repository will help you to contribute open source on Github. It will cover all the steps you need to follow to do any kind of open-source contribution.
+
 ## Install Git 
    Click  [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads)
 
@@ -85,6 +86,10 @@ After merging it in your repository, open my repository again and create a pull 
 <img src='images/newpull.png' width=400><br>
 set dropdown compare option and select your repo, and send pull request.<br><br>
 <em>Congratulation now you know how to do opensource✨</em> <br><br>
+| **Contributor**|
+|---|
+|<img  src ="https://contrib.rocks/image?repo=samadpls/opensource"  >|
+ 
 **If you stuck somewhere or getting any error you can also check the YouTube video**<br>
 <a href='https://www.youtube.com/watch?v=ozFv4oclQdE&feature=youtu.be'>HELP</a><br>
 
