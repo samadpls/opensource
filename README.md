@@ -1,5 +1,5 @@
 
-# Open Source Contribution  ![GitHub Repo stars](https://img.shields.io/github/stars/samadpls/opensource?style=social) ![GitHub forks](https://img.shields.io/github/forks/samadpls/opensource?style=social) ![APM](https://img.shields.io/apm/l/vim-mode?style=social)
+# Open Source Contribution  ![GitHub Repo stars](https://img.shields.io/github/stars/samadpls/opensource?style=social) ![GitHub forks](https://img.shields.io/github/forks/samadpls/opensource?style=social) ![GitHub](https://img.shields.io/github/license/EddieHubCommunity/api?style=social)
 
 This repository will help you to contribute open source on Github. It will cover all the steps you need to follow to do any kind of open-source contribution.
 
