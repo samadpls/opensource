@@ -8,6 +8,7 @@
 This repository will guide you through the process of contributing to open source on GitHub.
 
 ## Install Git 
+
 Click [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads) to install Git on your machine.
 
 ### Git Setup
