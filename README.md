@@ -14,7 +14,7 @@ Click [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git
 ### Git Setup
 To avoid any errors, follow these steps after installing Git:
 1. Open a terminal and run the following command to set your Github username:
-```ruby
+```py
 git config --global user.name "username"
 ```
 2. Set your Github email with the following command:
