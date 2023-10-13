@@ -7,7 +7,7 @@ Add Your GitHub Username and GitHub Profile Link
 - [KHADEEJAH123](https://github.com/KHADEEJAH123)
 - [Wasay033](https://github.com/Wasay033)
 - [saadali05](https://github.com/saadali05)
-- [Syedowaisalishah](https://github.com/syedowaisalishah)
+- [SYEDOWAISALISHAH](https://github.com/syedowaisalishah)
 - [m-abdullahjaved](https://github.com/m-abdullahjaved)
 - [Muhammad-Shaheer-khan](https://github.com/Muhammad-Shaheer-khan)
 - [Brunalu28](https://github.com/Brunalu28)
