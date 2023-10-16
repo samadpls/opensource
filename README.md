@@ -7,6 +7,20 @@
 
 This repository will guide you through the process of contributing to open source on GitHub.
 
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Install Git](#install-git)
+  - [Git Setup](#git-setup)
+- [Contributing](#contributing)
+  - [Fork the Repository](#fork-the-repository)
+  - [Clone the Repository](#clone-the-repository)
+  - [Create a Branch](#create-a-branch)
+  - [Edit the `name.md` File](#edit-the-name.md-file)
+  - [Commit and Push](#commit-and-push)
+  - [Submit a Pull Request](#submit-a-pull-request)
+- [Contributor Table](#contributor-table)
+- [Help and Troubleshooting](#help-and-troubleshooting)
+
 ## Install Git 
 
 Click [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads) to install Git on your machine.
