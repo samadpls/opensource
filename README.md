@@ -15,8 +15,7 @@ This repository will guide you through the process of contributing to open sourc
   - [Fork the Repository](#fork-the-repository)
   - [Create a Branch](#create-a-branch)
   - [Submit a Pull Request](#submit-a-pull-request)
-- [Contributor Table](#contributor-table)
-- [Help and Troubleshooting](#help-and-troubleshooting)
+
 
 ## Install Git 
 
