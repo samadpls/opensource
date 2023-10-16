@@ -1,6 +1,10 @@
+# Names of Contributors
+
 Add Your GitHub Username and GitHub Profile Link
+
 - [samadpls](https://github.com/samadpls)
 - [tubasid](https://github.com/tubasid)
+- [shehza-d](https://github.com/shehza-d)
 - [Myrausman](https://github.com/Myrausman)
 - [hamnamohi](https://github.com/hamnamohi)
 - [wareeshaali](https://github.com/wareeshaali2003)
@@ -11,7 +15,6 @@ Add Your GitHub Username and GitHub Profile Link
 - [m-abdullahjaved](https://github.com/m-abdullahjaved)
 - [Muhammad-Shaheer-khan](https://github.com/Muhammad-Shaheer-khan)
 - [Brunalu28](https://github.com/Brunalu28)
-- [shehza-d](https://github.com/shehza-d)
 - [proanus](https://github.com/proanus)
 - [werglay](https://github.com/werglay)
 - [mray96](https://github.com/mray96)
@@ -20,4 +23,3 @@ Add Your GitHub Username and GitHub Profile Link
 - [whatisfahad](https://github.com/whatisfahad)
 - [tahak6715](https://github.com/tahak6715)
 - [Maazbinsohail](https://github.com/Maazbinsohail)
-
