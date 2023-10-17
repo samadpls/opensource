@@ -12,7 +12,17 @@
 
 This repository will guide you through the process of contributing to open source on GitHub.
 
-## Install Git
+
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Install Git](#install-git)
+  - [Git Setup](#git-setup)
+- [Contributing](#contributing)
+  - [Fork the Repository](#fork-the-repository)
+  - [Create a Branch](#create-a-branch)
+  - [Submit a Pull Request](#submit-a-pull-request)
+
+### Install Git 
 
 Click [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads) to install Git on your machine.
 
@@ -32,7 +42,7 @@ git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
 
-## Fork the Repository
+### Fork the Repository
 
 1. Fork this repository by clicking the fork button. This will create a copy of the repository in your own account.<br>
    <img align='center' src='images/fork.png' width=60%/>
@@ -53,7 +63,7 @@ git config --global user.email "email@example.com"
    cd opensource
    ```
 
-## Create a Branch
+### Create a Branch
 
 It is best practice to create a new branch. Run the following command in the terminal:
 
@@ -69,7 +79,8 @@ While still in the terminal, open the `name.md` file (located inside the opensou
 2. Save the file and go back to the terminal.
 3. Run the following command to stage the changes:
 
-### Example
+
+#### Example
 
 <img src='images/name.png' width=80%><br>
 
@@ -85,7 +96,7 @@ make sure to use **"commas "** after -m
 git commit -m "added (username) in the name.txt"
 ```
 
-### Example
+#### Example:
 
 ```ruby
 git commit -m "added (samadpls) in the name.txt"
