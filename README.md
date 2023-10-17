@@ -1,12 +1,24 @@
 
 # Open Source Contribution 
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/samadpls/opensource?style=social) 
 ![GitHub forks](https://img.shields.io/github/forks/samadpls/opensource?style=social) 
 ![GitHub](https://img.shields.io/github/license/EddieHubCommunity/api?style=social)
 
 This repository will guide you through the process of contributing to open source on GitHub.
 
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Install Git](#install-git)
+  - [Git Setup](#git-setup)
+- [Contributing](#contributing)
+  - [Fork the Repository](#fork-the-repository)
+  - [Create a Branch](#create-a-branch)
+  - [Submit a Pull Request](#submit-a-pull-request)
+
+
 ## Install Git 
+
 Click [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads) to install Git on your machine.
 
 ### Git Setup
