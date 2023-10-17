@@ -1,8 +1,14 @@
 # Open Source Contribution
 
-![GitHub Repo stars](https://img.shields.io/github/stars/samadpls/opensource?style=social)
-![GitHub forks](https://img.shields.io/github/forks/samadpls/opensource?style=social)
-![GitHub](https://img.shields.io/github/license/EddieHubCommunity/api?style=social)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<p align="center">
+<img src='https://img.shields.io/github/stars/samadpls/opensource?style=social' alt='GitHub Repo stars'/>
+<img src='https://img.shields.io/github/forks/samadpls/opensource?style=social' alt='GitHub forks'/>
+<img src='https://img.shields.io/github/license/EddieHubCommunity/api?style=social' alt='GitHub'/>
+</p>
 
 This repository will guide you through the process of contributing to open source on GitHub.
 
