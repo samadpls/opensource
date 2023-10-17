@@ -68,7 +68,7 @@ git config --global user.email "email@example.com"
 It is best practice to create a new branch. Run the following command in the terminal:
 
 ```ruby
-git switch -c anyname
+git checkout -b anyname
 ```
 
 ### Open the name.md File
@@ -93,7 +93,7 @@ git add .
 make sure to use **"commas "** after -m
 
 ```bash
-git commit -m "added (username) in the name.txt"
+git commit -m "added (your_github_username) in the name.txt"
 ```
 
 #### Example:
