@@ -17,7 +17,7 @@ This repository will guide you through the process of contributing to open sourc
   - [Submit a Pull Request](#submit-a-pull-request)
 
 
-## Install Git 
+### Install Git 
 
 Click [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads) to install Git on your machine.
 
@@ -32,7 +32,7 @@ git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
 
-## Fork the Repository
+### Fork the Repository
 Fork this repository by clicking the fork button. This will create a copy of the repository in your own account.<br>
 <img align='center' src='images/fork.png' width=60%/>  
 2. Go to your account and open the forked repository. Click on the code button to copy the link.  
@@ -49,7 +49,7 @@ git clone https://github.com/your-username/opensource.git
 cd opensource
 ```
 
-## Create a Branch
+### Create a Branch
 It is best practice to create a new branch. Run the following command in the terminal:
 
 ```ruby
@@ -62,7 +62,7 @@ While still in the terminal, open the `name.md` file (located inside the opensou
 2. Save the file and go back to the terminal.
 3. Run the following command to stage the changes:
 
-### Example
+#### Example
 <img src='images/name.png' width=80%><br>
 ```ruby
 git add .
@@ -73,7 +73,7 @@ make sure to use **"commas "** after -m
 ```ruby
 git commit -m "added (username) in the name.txt"
 ```
-### Example:
+#### Example:
 ```ruby
 git commit -m "added (samadpls) in the name.txt"
 ```
