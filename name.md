@@ -15,7 +15,7 @@ Add Your GitHub Username and GitHub Profile Link
 - [M-abdullahjaved](https://github.com/m-abdullahjaved)
 - [Muhammad-Shaheer-khan](https://github.com/Muhammad-Shaheer-khan)
 - [Brunalu28](https://github.com/Brunalu28)
-- [proAnus](https://github.com/proanus)
+- [Proanus](https://github.com/proanus)
 - [werglay](https://github.com/werglay)
 - [saadali05](https://github.com/saadali05)
 - [mray96](https://github.com/mray96)
