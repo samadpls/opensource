@@ -12,7 +12,6 @@ Add Your GitHub Username and GitHub Profile Link
 - [Wasay033](https://github.com/Wasay033)
 - [SyedOwaisAliShah](https://github.com/syedowaisalishah)
 - [M-abdullahjaved](https://github.com/m-abdullahjaved)
-- [Muhammad-Shaheer-khan](https://github.com/Muhammad-Shaheer-khan)
 - [Brunalu28](https://github.com/Brunalu28)
 - [Proanus](https://github.com/proanus)
 - [werglay](https://github.com/werglay)
@@ -25,3 +24,4 @@ Add Your GitHub Username and GitHub Profile Link
 - [Aman](https://github.com/recdata)
 - [SumaiyaMoon](https://github.com/SumaiyaMoon)
 - [AbdulRehmanGHub](https://github.com/abdulrehmanghub)
+- [Muhammad-Shaheer-khan](https://github.com/Muhammad-Shaheer-khan)
