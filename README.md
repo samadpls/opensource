@@ -1,5 +1,4 @@
 # Open Source Contribution
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
@@ -41,6 +40,7 @@ git config --global user.name "username"
 ```bash
 git config --global user.email "email@example.com"
 ```
+> Note: Make sure to do this only during the first time installing Git.
 
 ### Fork the Repository
 
