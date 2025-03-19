@@ -2,6 +2,7 @@
 
 Add Your GitHub Username and GitHub Profile Link
 - [samadpls](https://github.com/samadpls)
+- [furqanahmed28](https://github.com/furqanahmed28)
 - [mahafujahamed](https://github.com/mahafujahamed)
 - [tubasid](https://github.com/tubasid)
 - [shehza-d](https://github.com/shehza-d)
@@ -31,3 +32,9 @@ Add Your GitHub Username and GitHub Profile Link
 - [mele000](https://github.com/mele000)
 - [nehalahmedqureshi](https://github.com/NehalAhmedQureshi)
 - [UmarAyaz23] (https://github.com/UmarAyaz23)
+- [Aqsashahid7788](https://github.com/Aqsashahid7788)
+- [atikatufail](https://github.com/atikatufail)
+- [ZuhaSajjad](https://github.com/ZuhaSajjad)
+- [SaniaTehseen](https://github.com/SaniaTehseen)
+- [Stranger787](https://github.com/Stranger787)
+- [alishbah728](https://github.com/alishbah728)
