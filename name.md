@@ -31,6 +31,7 @@ Add Your GitHub Username and GitHub Profile Link
 - [Parakrant](https://github.com/Parakrant)
 - [mele000](https://github.com/mele000)
 - [nehalahmedqureshi](https://github.com/NehalAhmedQureshi)
+- [SyedAliasad20](https://github.com/SyedAliasad20)
 - [ZeeshanAK04](https://github.com/ZeeshanAK04)
 - [MannanAli912](https://github.com/MannanAli912)
 - [Hashirahmedd](https://github.com/Hashirahmedd)
