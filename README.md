@@ -128,7 +128,7 @@ After merging it in your repository, open my repository again and create a pull 
 <img  src='images/pullreqbtn.png' width=300><br><br>
 <img src='images/newpull.png' width=400><br>
 set dropdown compare option and select your repo, and send pull request.<br><br>
-`mention issue #60 in PR description`
+`mention issue #60 in PR description`  
 <em>Congratulations, you now know how to contribute to open source!</em>
 
 | **Contributor**  |
