@@ -47,7 +47,7 @@ git config --global user.email "email@example.com"
 1. Fork this repository by clicking the fork button. This will create a copy of the repository in your own account.<br>
    <img align='center' src='images/fork.png' width=60%/>
 
-1. Go to your account and open the forked repository. Click on the code button to copy the link.
+1. Go to your account and open the forked repository. Click on the code button to copy the link.  
    <img src ='images/clone.png' width=60%>
 1. Run the following command to clone the repository to your machine:
 
