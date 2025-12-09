@@ -121,7 +121,7 @@ git config --global push.autoSetupRemote true
 
 ## Submit a Pull Request
 
-Go to your Github account and you will see the option to create a pull request. Merge the changes into your repository and then create a pull request.
+Go to your Github account and you will see the option to create a pull request. Merge the changes into your repository and then create a pull request.  
 <img align='center' src ='images/pull.png' width=400><br>
 After merging it in your repository, open my repository again and create a pull request by going on the pull request option, then you will see this option<br>
 
