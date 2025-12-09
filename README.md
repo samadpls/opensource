@@ -21,7 +21,7 @@ This repository will guide you through the process of contributing to open sourc
   - [Create a Branch](#create-a-branch)
   - [Submit a Pull Request](#submit-a-pull-request)
 
-### Install Git 
+### Install Git
 
 Click [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads) to install Git on your machine.
 
@@ -47,7 +47,7 @@ git config --global user.email "email@example.com"
 1. Fork this repository by clicking the fork button. This will create a copy of the repository in your own account.<br>
    <img align='center' src='images/fork.png' width=60%/>
 
-1. Go to your account and open the forked repository. Click on the code button to copy the link.  
+1. Go to your account and open the forked repository. Click on the code button to copy the link.
    <img src ='images/clone.png' width=60%>
 1. Run the following command to clone the repository to your machine:
 
@@ -121,14 +121,14 @@ git config --global push.autoSetupRemote true
 
 ## Submit a Pull Request
 
-Go to your Github account and you will see the option to create a pull request. Merge the changes into your repository and then create a pull request.  
+Go to your Github account and you will see the option to create a pull request. Merge the changes into your repository and then create a pull request.
 <img align='center' src ='images/pull.png' width=400><br>
 After merging it in your repository, open my repository again and create a pull request by going on the pull request option, then you will see this option<br>
 
 <img  src='images/pullreqbtn.png' width=300><br><br>
 <img src='images/newpull.png' width=400><br>
 set dropdown compare option and select your repo, and send pull request.<br><br>
-`mention issue #60 in PR description`  
+`mention issue #60 in PR description`
 <em>Congratulations, you now know how to contribute to open source!</em>
 
 | **Contributor**  |
