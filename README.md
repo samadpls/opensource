@@ -21,7 +21,7 @@ This repository will guide you through the process of contributing to open sourc
   - [Create a Branch](#create-a-branch)
   - [Submit a Pull Request](#submit-a-pull-request)
 
-### Install Git
+### Install Git 
 
 Click [![Git](https://img.shields.io/badge/👨🏼‍💻Git-000?)](https://git-scm.com/downloads) to install Git on your machine.
 
